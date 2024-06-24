@@ -1,4 +1,4 @@
-![Daniel Moch](https://www.danielmoch.com/assets/avatar.jpg)
+<img src="https://www.danielmoch.com/assets/avatar.jpg" id="logo" alt="Daniel Moch" width="200" height="200">
 
 I am a Software Engineer currently living in Orlando, Florida.
 My interests range from technology to entrepreneurship.
