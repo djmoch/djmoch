@@ -1,13 +1,13 @@
-<img src="https://www.danielmoch.com/assets/avatar.jpg" id="logo" alt="Daniel Moch" width="200" height="200">
+I am a Software Engineer and Architect who has been active in the
+industry since 2005. I have experience developing in real-time
+operating systems, embedded Linux device drivers, and automated
+factory acceptance testing. Since 2009 I have focused mainly on
+information and logistics systems.
 
-I am a Software Engineer currently living in Orlando, Florida.
-My interests range from technology to entrepreneurship.
-I am also interested in writing, movies, and astronomy.
-I'm also passionate about seeing people take control of their own
-data.
+Most of my time professionally is spent maintaining legacy code.
+As a result, I have developed a specialty applying DevOps practices
+to older codebases, and since 2019 I have split my time doing this
+across multiple internal projects.
 
-## Links
-- [Email](mailto:daniel@danielmoch.com)
-- [Calendly](https://calendly.com/djmoch)
-- [PGP](https://www.danielmoch.com/static/gpg.asc) (deprecated)
-- [Signify](https://www.danielmoch.com/static/djmoch-signify.pub)
+In 2024 I began working with the open source community in the area
+of security.
